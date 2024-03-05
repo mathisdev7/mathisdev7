@@ -15,3 +15,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/frostwrld7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="frostwrld7" /></a></p><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frostwrld7&show_icons=true&locale=en&layout=compact" alt="frostwrld7" /></p>
