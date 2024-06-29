@@ -1,6 +1,6 @@
 ### Hi, I'm Mathis, currently 17 years old aspring web full-stack developer, on this github I share my open source projects, have fun browsing it 
 
-- 🔭 I’m currently working on something...
+- 🔭 I’m currently working on [F'Threads](https://github.com/mathisdev7/Fthreads)
 - 📫 How to reach me (discord): @frost.wrld
 - 💻 I use [VSCode](https://code.visualstudio.com/)
 - 🥖 I live in France
