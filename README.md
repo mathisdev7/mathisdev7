@@ -1,4 +1,4 @@
-### Hi, I'm Mathis, currently 17 years old aspring web full-stack developer, on this github I share my open source projects, have fun browsing it 
+### Hi, I'm Mathis, currently 18 years old aspring web full-stack developer, on this github I share my open source projects, have fun browsing it 
 
 - 🔭 I’m currently working on [F'Threads](https://github.com/mathisdev7/Fthreads)
 - 📫 How to reach me (discord): @frost.wrld
