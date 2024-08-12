@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [F'Threads](https://github.com/mathisdev7/Fthreads)
 - 📫 How to reach me (discord): @frost.wrld
 - 💻 I use [VSCode](https://code.visualstudio.com/)
+- 📚 [42](https://42.fr/en/homepage/) Student
 - 🥖 I live in France
 
 
