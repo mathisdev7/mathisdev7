@@ -1,40 +1,31 @@
-### Hi, I'm Mathis, currently 18 years old aspring web full-stack developer, on this github I share my open source projects, have fun browsing it 
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there!
+![profile count](https://komarev.com/ghpvc/?username=mathisdev7&color=red)&nbsp;
+[![GitHub mathisdev7](https://img.shields.io/github/followers/mathisdev7?label=follow&style=social)](https://github.com/mathisdev7)&nbsp;
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on [F'Threads](https://github.com/mathisdev7/Fthreads)
-- 📫 How to reach me (discord): @frost.wrld
-- 💻 I use [VSCode](https://code.visualstudio.com/)
-- 📚 [42](https://42.fr/en/homepage/) Student
-- 🥖 I live in France
-
-
-## 🌍 Languages:
-[![progLang](https://skillicons.dev/icons?i=ts,js,html,css,py&theme=dark)](https://github.com/mathisdev7)
-
-  
-## 💻 Frameworks:
-
-  ### Css:
-  [![css](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/mathisdev7)
-  
-  ### Javascript:
-  [![js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://github.com/mathisdev7)
-
-## ⚙️ Tools:
-
-  [![tools](https://skillicons.dev/icons?i=git,vscode,figma,vercel,prisma,postman,pnpm,jest&theme=dark)](https://github.com/mathisdev7)
-  
-  
-  
-## 📦 Databases:
- [![databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark)](https://github.com/mathisdev7)
-
-## 🔧 OS :
- ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=debian&logoColor=FFFF00)
+💡 &nbsp; I'm a fullstack web developer and student at [42 school](https://42perpignan.fr/).\
+🌱 &nbsp;I'm on track for learning more about Web, Cybersecurity.\
+✍️ &nbsp;In my free time, I play videos games, football, and I code.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at frostwrld99922@gmail.com. I'll try to respond as soon as possible!\
 
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=mathisdev7&show_icons=true&hide_border=true&theme=discord_old_blurple" />
-<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathisdev7&theme=discord_old_blurple" />
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=tailwind&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NextJS](https://img.shields.io/badge/next.js-000000?style=&logo=nextdotjs&logoColor=white)&nbsp;
+
+
+### 📫 &nbsp; How to reach me:
+
+
+<a href="mailto:frostwrld99922@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
