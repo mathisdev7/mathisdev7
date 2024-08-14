@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Web, Cybersecurity.\
 ✍️ &nbsp;In my free time, I play video games, football, and I code.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at frostwrld99922@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at frostwrld99922@gmail.com. I'll try to respond as soon as possible!
 
 
 ### 🛠 &nbsp;Tech Stack
