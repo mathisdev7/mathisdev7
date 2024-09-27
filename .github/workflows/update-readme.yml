@@ -1,8 +1,9 @@
 name: Update README every 10 hours
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */10 * * *"
+    - cron: '0 */10 * * *'
 
 jobs:
   update-readme:
