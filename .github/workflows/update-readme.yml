@@ -1,0 +1,38 @@
+name: Update README every 10 hours
+
+on:
+  schedule:
+    - cron: "0 */10 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update README
+        run: node update-readme.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Frost'
+          git config --global user.email '999frostz@gmail.com'
+          git add README.md
+          git commit -m "Automated README update: $(date +'%Y-%m-%d %H:%M:%S')" || echo "Nothing to commit"
+
+      - name: Push changes
+        run: git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+
+
