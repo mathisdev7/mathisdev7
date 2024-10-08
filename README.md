@@ -1,7 +1,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi there!
 ![profile count](https://komarev.com/ghpvc/?username=mathisdev7&color=red)&nbsp;
 [![GitHub mathisdev7](https://img.shields.io/github/followers/mathisdev7?label=follow&style=social)](https://github.com/mathisdev7)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
+# 👨🏻‍💻 About Me:
 
 💡 &nbsp;I'm a fullstack web developer and student at [42 school](https://42perpignan.fr/).\
 🌱 &nbsp;I'm on track for learning more about Web, Cybersecurity.\
@@ -10,8 +10,7 @@
 ✉️ &nbsp;You can email me at mathisdev7@gmail.com. I'll try to respond as soon as possible!
 
 
-### 🛠 &nbsp;Tech Stack
-
+# 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://shields.io/badge/TypeScript-05122A?style=flat&logo=Typescript&logoColor=A8B9CC)&nbsp;
@@ -32,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisdev7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 📫 &nbsp; How to reach me:
+# 📫 How to reach me:
 
 
 <a href="mailto:mathisdev7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
