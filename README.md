@@ -4,7 +4,7 @@
 # 👨🏻‍💻 About Me:
 
 💡 &nbsp;I'm a fullstack web developer and student at [42 school](https://42perpignan.fr/).\
-🌱 &nbsp;I'm on track for learning more about Web, Cybersecurity.\
+🌱 &nbsp;I'm on track for learning more about Web and Cybersecurity.\
 ✍️ &nbsp;In my free time, I play rocket league, F1, football, and I code.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at mathisdev7@gmail.com. I'll try to respond as soon as possible!
