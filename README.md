@@ -26,7 +26,7 @@
 ![Remix](https://img.shields.io/badge/Remix-05122A?style=flat&logo=remix&logoColor=white)&nbsp;
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mathisdev7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mathisdev7\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mathisdev7&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisdev7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
