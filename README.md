@@ -13,7 +13,7 @@
 # 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://shields.io/badge/TypeScript-05122A?style=flat&logo=Typescript&logoColor=A8B9CC)&nbsp;
+![TypeScript](https://shields.io/badge/TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?&style=flat&logo=react)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwindcss-05122A?&style=flat&logo=tailwindcss)\
@@ -26,9 +26,9 @@
 ![Remix](https://img.shields.io/badge/Remix-05122A?style=flat&logo=remix&logoColor=white)&nbsp;
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mathisdev7\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mathisdev7&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisdev7&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mathisdev7&theme=gotham&show_icons=true&hide_border=false&count_private=true) <br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mathisdev7&theme=gotham&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisdev7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 📫 How to reach me:
