@@ -3,6 +3,7 @@
 [![GitHub mathisdev7](https://img.shields.io/github/followers/mathisdev7?label=follow&style=social)](https://github.com/mathisdev7)&nbsp;
 ### 👨🏻‍💻 About Me:  
 🚀  I’m a **fullstack web developer** and a student at **[42](https://42perpignan.fr/)**. 
+<br />
 🌱  I’m currently exploring **web pentesting** and diving into fields like **OSINT (Open Source Intelligence)**.  
 ✍️  When I’m not coding, you’ll likely find me playing **Rocket League** or working on personal tech projects.  
 💬  Always happy to discuss **web development**, **OSINT**, or any exciting tech topics—don’t hesitate to reach out!  
