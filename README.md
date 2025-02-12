@@ -56,7 +56,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mathisdev7&theme=gotham&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisdev7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Tracking Image](http://45.55.49.222:3000/track)
 # 📫 How to reach me:
 
 
