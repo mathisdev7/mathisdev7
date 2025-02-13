@@ -20,20 +20,15 @@
 
 ### Tools:
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-671ddf?&style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://www.electronjs.org" target="_blank"><img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" /></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
 <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
 <a href="https://remix.run/" target="_blank"><img src="https://img.shields.io/badge/remixjs-000000?style=for-the-badge&logo=remix&logoColor=white" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-<a href="https://www.npmjs.com" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 <a href="https://pnpm.io" target="_blank"><img src="https://img.shields.io/badge/pnpm-CB3837?style=for-the-badge&logo=pnpm&logoColor=white" /></a>
 <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href="https://ui.shadcn.com" target="_blank"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /></a>
 <a href="https://socket.io" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" /></a>
 <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-<a href="https://typestrong.org/ts-node" target="_blank"><img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" /></a>
-<a href="https://classic.yarnpkg.com/lang/en" target="_blank"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /></a>
 <a href="https://www.prisma.io" target="_blank"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /></a>
 <a href="https://eslint.org" target="_blank"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></a>
 <a href="https://prettier.io" target="_blank"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /></a>
