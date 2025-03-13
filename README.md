@@ -4,9 +4,7 @@
 ### 👨🏻‍💻 About Me:  
 🚀  I’m a **fullstack web developer** and a student at **[42](https://42perpignan.fr/)**. 
 <br />
-🌱  I’m currently exploring **web pentesting** and diving into fields like **OSINT (Open Source Intelligence)**.  
-✍️  When I’m not coding, you’ll likely find me playing **Rocket League** or working on personal tech projects.  
-💬  Always happy to discuss **web development**, **OSINT**, or any exciting tech topics—don’t hesitate to reach out!  
+💬  Always happy to discuss about **web development**, **OSINT**, or any exciting tech topics—don’t hesitate to reach out!  
 ✉️  Contact me at **mathisdev7@gmail.com**, and I’ll respond as quickly as I can!  
 
 # 🛠 What I Excel At:
