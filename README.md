@@ -15,6 +15,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 <a href="https://www.google.com/" target="_blank"><img src="https://img.shields.io/badge/C-007BCC?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a href="https://www.google.com/" target="_blank"><img src="https://img.shields.io/badge/CPP-DA70D6?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href="https://go.dev/doc/" target="_blank"><img src="https://img.shields.io/badge/GO-1572B6?style=for-the-badge&logo=go&logoColor=white" /></a>
 
 ### Tools:
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-671ddf?&style=for-the-badge&logo=git&logoColor=white" /></a>
