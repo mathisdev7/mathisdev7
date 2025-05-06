@@ -4,7 +4,7 @@ I'm mostly interested in everything around the **React** and **Next.js** ecosyst
 I love building fast, modern web apps with clean UX.
 
 ### 🛠 What I Use Most:
-- **Languages**: C, JavaScript, TypeScript  
+- **Languages**: JavaScript, TypeScript  
 - **Tech**: React (library), Next.js (framework)
 
 Feel free to reach out if you want to chat about code, projects, or anything web-related!  
